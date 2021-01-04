@@ -1,4 +1,4 @@
-package Lecture3;
+package IntroductiontoJava.Lecture3;
 import java.util.Scanner;
 public class LargestOfThree{
     public static void main(String[] args)

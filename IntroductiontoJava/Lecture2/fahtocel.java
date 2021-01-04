@@ -1,4 +1,4 @@
-package Lecture2;
+package IntroductiontoJava.Lecture2;
 
 import java.util.Scanner;
 public class fahtocel {

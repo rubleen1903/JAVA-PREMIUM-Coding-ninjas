@@ -1,4 +1,4 @@
-package Lecture2;
+package IntroductiontoJava.Lecture2;
 
 public class HelloWorld {
     public static void main(String[] args)
