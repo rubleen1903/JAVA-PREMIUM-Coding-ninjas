@@ -14,6 +14,6 @@ public class powertilln{
             i+=1;
 		}
 		System.out.println(power);
-		
+		scan.close();
     }
 }

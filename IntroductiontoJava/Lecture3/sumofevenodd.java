@@ -21,6 +21,6 @@ public class sumofevenodd {
             num=num/10;
         }
         System.out.println(sume+" "+sumo);
-
+     sc.close();
     }
 }

@@ -3,8 +3,6 @@ import java.util.Scanner;
 public class totalsalary {
 	
 	public static void main(String[] args) {
-		// Write your code here
-     	// Write your code here
          Scanner scan=new Scanner(System.in);
          int bs=scan.nextInt();
          String grade=scan.next();
@@ -21,7 +19,7 @@ public class totalsalary {
  
          int totalSalary=(int)(Math.round(bs+hra+da+allow-pf));
          System.out.println(totalSalary);
- 
+         scan.close();
         
 	}
 }
